@@ -25,9 +25,4 @@ Then each lot average PSI was tested against the presumed population mean of 150
 
 
 ## Study Design: MechaCar vs Competition
-
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+In order to compare MechaCar against a competitor a two samplehypothesis test can be used. The null hypothesis is that there is no difference between the parameters of the two populations. The alternative hypothesis is that there is a difference between the groups. If we test the difference btween means we can use the mpg parameter to see if the two companies are as fuel effecient. Or we can also compare other parameters. Overall this can show if Mechacar is within the range to be competition against other companies. 
